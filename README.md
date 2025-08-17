@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/CQRS-9b59b6?style=for-the-badge" />
 </p>
 
+---
 
 ## 📚 Currently Learning
 - Advanced Back-End Development with ASP.NET Core  
