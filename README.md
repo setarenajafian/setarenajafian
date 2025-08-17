@@ -5,7 +5,7 @@
 
 
 ## 👩🏻‍💻 About Me
-💼 Aspiring Back-End Developer with a passion for building clean, maintainable, and efficient software solutions. Experienced in designing applications using modern software design principles and best practices.
+💼 Aspiring Full-stack Developer with a passion for building clean, maintainable, and efficient software solutions. Experienced in designing applications using modern software design principles and best practices.
  
 
 📍 Tehran, Iran | 📧 setarenajafian@gmail.com 
