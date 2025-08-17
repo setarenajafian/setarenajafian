@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/setare-najafian-5ab12b358/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/setarenajafian)
 
----
+
 ## 🛠 Technical Skills
 
 ### Languages & Frameworks
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/CQRS-9b59b6?style=for-the-badge" />
 </p>
 
----
+
 
 ## 📚 Currently Learning
 - Advanced Back-End Development with ASP.NET Core  
@@ -51,14 +51,14 @@
 - Front-End Fundamentals (JavaScript, advanced CSS)  
 - Microservices & Messaging Systems  
 
----
+
 
 ## 🌟 Strengths
 - ⚡ Fast learner with strong problem-solving mindset  
 - 👥 Ability to work independently and in teams  
 - 🏗️ Solid foundation in software engineering concepts  
 
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
