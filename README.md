@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:36BCF7,100:9b59b6&height=200&section=header&text=Hi%20👋,%20I'm%20Setare%20Najafian&fontSize=40&fontColor=fff&animation=twinkling"/>
 </p>
 
----
+
 
 ## 👩‍💻 About Me
 💼 Aspiring Back-End Developer with a passion for building clean, maintainable, and efficient software solutions. Experienced in designing applications using modern software design principles and best practices.
