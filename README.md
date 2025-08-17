@@ -4,7 +4,7 @@
 
 
 
-## 👩‍💻 About Me
+## 👩🏻‍💻 About Me
 💼 Aspiring Back-End Developer with a passion for building clean, maintainable, and efficient software solutions. Experienced in designing applications using modern software design principles and best practices.
  
 
@@ -56,7 +56,7 @@
 ## 🌟 Strengths
 - ⚡ Fast learner with strong problem-solving mindset  
 - 👥 Ability to work independently and in teams  
-- 🏗️ Solid foundation in software engineering concepts  
+- 📃 Solid foundation in software engineering concepts  
 
 
 
