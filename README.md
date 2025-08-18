@@ -8,7 +8,6 @@
 💼 Aspiring Full-stack Developer with a passion for building clean, maintainable, and efficient software solutions. Experienced in designing applications using modern software design principles and best practices.
  
 
-📍 Tehran, Iran | 📧 setarenajafian@gmail.com 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/setare-najafian-5ab12b358/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/setarenajafian)
 
