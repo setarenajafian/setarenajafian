@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=250&color=0:36BCF7,100:9b59b6&text=Hi👋🏻%20I'm%20Setare Najafian&fontAlignY=40&fontSize=42&fontColor=fff&section=header&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=250&color=0:36BCF7,100:9b59b6&text=Hi%20I'm%20Setare Najafian&fontAlignY=40&fontSize=42&fontColor=fff&section=header&animation=twinkling"/>
 </p>
-
-
-
 
 
 ## 👩🏻‍💻 About Me
