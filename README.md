@@ -60,10 +60,13 @@
 
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=setarenajafian&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setarenajafian&layout=compact&theme=radical" height="160"/>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=setarenajafian&show_icons=true&theme=radical&hide_border=false&border_radius=10&card_width=400" height="180" alt="GitHub Stats"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setarenajafian&layout=compact&theme=radical&hide_border=false&border_radius=10&card_width=400" height="180" alt="Top Languages"/>
+
+</div>
 
 
 
