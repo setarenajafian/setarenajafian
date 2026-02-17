@@ -1,75 +1,13 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:36BCF7,100:9b59b6&height=250&section=header&text=Hi%20👋,%20I'm%20Setare%20Najafian&fontSize=40&fontColor=fff&animation=twinkling"/>
-</p>
+Hi 👋 I'm Setare Najafian 
 
+Focused on building scalable and maintainable backend systems using modern .NET technologies and distributed architecture patterns.
 
+Languages & Frameworks: .NET / C# / ASP.NET Core / EF Core / SQL Server / Python
 
-## 👩🏻‍💻 About Me
-💼 Aspiring Back-End Developer with a passion for building clean, maintainable, and efficient software solutions. Experienced in designing applications using modern software design principles and best practices.
- 
+API & Distributed Communication: REST / GraphQL / gRPC 
 
+Architectures: Microservices / Clean Architecture / CQRS / DDD / Event-Driven Architecture
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/setare-najafian-5ab12b358/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/setarenajafian)
+Design & Engineering Principles: OOP / SOLID / GRASP / Design Patterns / Dependency Injection / IoC
 
-
-## 🛠 Technical Skills
-
-### Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework-6a11cb?style=for-the-badge&logo=entityframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlserver&logoColor=white" />
-</p>
-
-### Concepts & Principles
-<p>
-  <img src="https://img.shields.io/badge/OOP-6a11cb?style=for-the-badge&logo=objectscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dependency_Injection-2ecc71?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SOLID-0d6efd?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design_Patterns-f39c12?style=for-the-badge" />
-</p>
-
-### Architectures & Tools
-<p>
-  <img src="https://img.shields.io/badge/MVC-2980b9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web_API-8e44ad?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-16a085?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/CQRS-9b59b6?style=for-the-badge" />
-</p>
-
-
-
-## 📚 Currently Learning
-- Advanced Back-End Development with ASP.NET Core  
-- Blazor (WebAssembly & Server)  
-- Front-End Fundamentals (JavaScript, advanced CSS)  
-- Microservices & Messaging Systems  
-
-
-
-## 🌟 Strengths
-- ⚡ Fast learner with strong problem-solving mindset  
-- 👥 Ability to work independently and in teams  
-- 📃 Solid foundation in software engineering concepts  
-
-
-
-## 📊 GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=setarenajafian&show_icons=true&theme=radical&hide_border=false&border_radius=10&card_width=400" height="180" alt="GitHub Stats"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setarenajafian&layout=compact&theme=radical&hide_border=false&border_radius=10&card_width=400" height="180" alt="Top Languages"/>
-
-</div>
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9b59b6&height=120&section=footer&animation=twinkling"/>
-</p>
+Technologies & Tools: RabbitMQ / SignalR / Git / Docker
