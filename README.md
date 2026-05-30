@@ -1,13 +1,11 @@
 Hi 👋 I'm Setare Najafian 
 
-Focused on building scalable and maintainable backend systems using modern .NET technologies and distributed architecture patterns.
+I’m a backend-focused software engineer who enjoys building scalable, maintainable, and production-ready systems—primarily in the .NET ecosystem. I care about clean design, clear boundaries, and making systems that stay understandable as they grow.
 
-Languages & Frameworks: .NET / C# / ASP.NET Core / EF Core / SQL Server / Python
+Core stack: .NET / C# / ASP.NET Core / SQL / Python
 
-API & Distributed Communication: REST / GraphQL / gRPC 
+Backend focus areas: API design & integration, distributed communication, and system architecture
 
-Architectures: Microservices / Clean Architecture / CQRS / DDD / Event-Driven Architecture
+Engineering mindset: clean code, software design principles, and pragmatic patterns
 
-Design & Engineering Principles: OOP / SOLID / GRASP / Design Patterns / Dependency Injection / IoC
-
-Technologies & Tools: RabbitMQ / SignalR / Git / Docker
+Tools : Git / Docker / messaging & real-time solutions
