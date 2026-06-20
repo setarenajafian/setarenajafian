@@ -1,11 +1,14 @@
-Hi 👋 I'm Setare Najafian 
+### Setare Najafian
+**Backend Developer | .NET / ASP.NET Core**
 
-I’m a backend-focused software engineer who enjoys building scalable, maintainable, and production-ready systems—primarily in the .NET ecosystem. I care about clean design, clear boundaries, and making systems that stay understandable as they grow.
+I'm a Computer Science student focused on backend development, with an emphasis 
+on clean architecture, well-structured APIs, and maintainable code design. 
+I build projects to apply software design principles in practice — including 
+Clean Architecture, DDD, and CQRS — rather than treating them as theory alone.
 
-Core stack: .NET / C# / ASP.NET Core / SQL / Python
+**Tech Stack:** C# · ASP.NET Core · Entity Framework · SQL · Git
 
-Backend focus areas: API design & integration, distributed communication, and system architecture
+**Areas of Interest:** API design, software architecture, clean code practices
 
-Engineering mindset: clean code, software design principles, and pragmatic patterns
+📌 Pinned repositories reflect my current technical focus and approach.
 
-Tools : Git / Docker / messaging & real-time solutions
